@@ -1,102 +1,148 @@
-    '/formatVersion'                                   '1.0'              'hdf5.h5string'
-    '/nirs/data1/dataTimeSeries'                       778×12 double      'double'       
-    '/nirs/data1/measurementList1/dataType'            [          101]    'double'       
-    '/nirs/data1/measurementList1/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList1/dataTypeLabel'       'raw-AC'           'hdf5.h5string'
-    '/nirs/data1/measurementList1/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList1/moduleIndex'         [            2]    'double'       
-    '/nirs/data1/measurementList1/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList1/wavelengthIndex'     [            1]    'double'       
-    '/nirs/data1/measurementList10/dataType'           [          102]    'double'       
-    '/nirs/data1/measurementList10/dataTypeIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList10/dataTypeLabel'      'raw-Phase'        'hdf5.h5string'
-    '/nirs/data1/measurementList10/detectorIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList10/moduleIndex'        [            2]    'double'       
-    '/nirs/data1/measurementList10/sourceIndex'        [            1]    'double'       
-    '/nirs/data1/measurementList10/wavelengthIndex'    [            2]    'double'       
-    '/nirs/data1/measurementList11/dataType'           [          102]    'double'       
-    '/nirs/data1/measurementList11/dataTypeIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList11/dataTypeLabel'      'raw-Phase'        'hdf5.h5string'
-    '/nirs/data1/measurementList11/detectorIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList11/moduleIndex'        [            2]    'double'       
-    '/nirs/data1/measurementList11/sourceIndex'        [            1]    'double'       
-    '/nirs/data1/measurementList11/wavelengthIndex'    [            4]    'double'       
-    '/nirs/data1/measurementList12/dataType'           [          102]    'double'       
-    '/nirs/data1/measurementList12/dataTypeIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList12/dataTypeLabel'      'raw-Phase'        'hdf5.h5string'
-    '/nirs/data1/measurementList12/detectorIndex'      [            1]    'double'       
-    '/nirs/data1/measurementList12/moduleIndex'        [            2]    'double'       
-    '/nirs/data1/measurementList12/sourceIndex'        [            1]    'double'       
-    '/nirs/data1/measurementList12/wavelengthIndex'    [            3]    'double'       
-    '/nirs/data1/measurementList2/dataType'            [          101]    'double'       
-    '/nirs/data1/measurementList2/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList2/dataTypeLabel'       'raw-AC'           'hdf5.h5string'
-    '/nirs/data1/measurementList2/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList2/moduleIndex'         [            2]    'double'       
-    '/nirs/data1/measurementList2/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList2/wavelengthIndex'     [            2]    'double'       
-    '/nirs/data1/measurementList3/dataType'            [          101]    'double'       
-    '/nirs/data1/measurementList3/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList3/dataTypeLabel'       'raw-AC'           'hdf5.h5string'
-    '/nirs/data1/measurementList3/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList3/moduleIndex'         [            2]    'double'       
-    '/nirs/data1/measurementList3/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList3/wavelengthIndex'     [            4]    'double'       
-    '/nirs/data1/measurementList4/dataType'            [          101]    'double'       
-    '/nirs/data1/measurementList4/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList4/dataTypeLabel'       'raw-AC'           'hdf5.h5string'
-    '/nirs/data1/measurementList4/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList4/moduleIndex'         [            2]    'double'       
-    '/nirs/data1/measurementList4/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList4/wavelengthIndex'     [            3]    'double'       
-    '/nirs/data1/measurementList5/dataType'            [            1]    'double'       
-    '/nirs/data1/measurementList5/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList5/dataTypeLabel'       'raw-DC'           'hdf5.h5string'
-    '/nirs/data1/measurementList5/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList5/moduleIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList5/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList5/wavelengthIndex'     [            1]    'double'       
-    '/nirs/data1/measurementList6/dataType'            [            1]    'double'       
-    '/nirs/data1/measurementList6/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList6/dataTypeLabel'       'raw-DC'           'hdf5.h5string'
-    '/nirs/data1/measurementList6/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList6/moduleIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList6/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList6/wavelengthIndex'     [            2]    'double'       
-    '/nirs/data1/measurementList7/dataType'            [            1]    'double'       
-    '/nirs/data1/measurementList7/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList7/dataTypeLabel'       'raw-DC'           'hdf5.h5string'
-    '/nirs/data1/measurementList7/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList7/moduleIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList7/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList7/wavelengthIndex'     [            4]    'double'       
-    '/nirs/data1/measurementList8/dataType'            [            1]    'double'       
-    '/nirs/data1/measurementList8/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList8/dataTypeLabel'       'raw-DC'           'hdf5.h5string'
-    '/nirs/data1/measurementList8/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList8/moduleIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList8/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList8/wavelengthIndex'     [            3]    'double'       
-    '/nirs/data1/measurementList9/dataType'            [          102]    'double'       
-    '/nirs/data1/measurementList9/dataTypeIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList9/dataTypeLabel'       'raw-Phase'        'hdf5.h5string'
-    '/nirs/data1/measurementList9/detectorIndex'       [            1]    'double'       
-    '/nirs/data1/measurementList9/moduleIndex'         [            2]    'double'       
-    '/nirs/data1/measurementList9/sourceIndex'         [            1]    'double'       
-    '/nirs/data1/measurementList9/wavelengthIndex'     [            1]    'double'       
-    '/nirs/data1/time'                                 778×1  double      'double'       
-    '/nirs/metaDataTags/LengthUnit'                    'mm'               'hdf5.h5string'
-    '/nirs/metaDataTags/MeasurementDate'               '?'                'hdf5.h5string'
-    '/nirs/metaDataTags/MeasurementTime'               '?'                'hdf5.h5string'
-    '/nirs/metaDataTags/SNIRF_createDate'              '2020-05-29'       'hdf5.h5string'
-    '/nirs/metaDataTags/SNIRF_createTime'              '21:05:41Z'        'hdf5.h5string'
-    '/nirs/metaDataTags/SubjectID'                     'annonymous'       'hdf5.h5string'
-    '/nirs/metaDataTags/TimeUnit'                      's'                'hdf5.h5string'
-    '/nirs/metaDataTags/filedescription'               'RL503.txt'        'hdf5.h5string'
-    '/nirs/probe/detectorLabels'                       'Detector-0001'    'hdf5.h5string'
-    '/nirs/probe/detectorPos2D'                          3×1  double      'double'       
-    '/nirs/probe/frequencies'                            2×1  double      'double'       
-    '/nirs/probe/sourceLabels'                         'Source-0001'      'hdf5.h5string'
-    '/nirs/probe/sourcePos2D'                            3×1  double      'double'       
-    '/nirs/probe/useLocalIndex'                        [            1]    'double'       
-    '/nirs/probe/wavelengths'                            4×1  double      'double'       
+*********   SNIRF Validation   **********
+File: ISS.snirf
+File is VALID
+-----------------------------------------
+/formatVersion [ STRING ]  : "1.0"
+/nirs/data1/dataTimeSeries [ FLOAT ]  : Array <778 x 18>
+/nirs/data1/measurementList1/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList1/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList1/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList1/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList1/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList1/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList1/wavelengthIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList10/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList10/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList10/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList10/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList10/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList10/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList10/wavelengthIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList11/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList11/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList11/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList11/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList11/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList11/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList11/wavelengthIndex [ FLOAT ]  : 4
+/nirs/data1/measurementList12/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList12/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList12/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList12/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList12/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList12/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList12/wavelengthIndex [ FLOAT ]  : 3
+/nirs/data1/measurementList13/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList13/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList13/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList13/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList13/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList13/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList13/wavelengthIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList14/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList14/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList14/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList14/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList14/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList14/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList14/wavelengthIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList15/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList15/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList15/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList15/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList15/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList15/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList15/wavelengthIndex [ FLOAT ]  : 4
+/nirs/data1/measurementList16/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList16/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList16/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList16/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList16/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList16/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList16/wavelengthIndex [ FLOAT ]  : 3
+/nirs/data1/measurementList17/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList17/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList17/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList17/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList17/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList17/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList17/wavelengthIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList18/dataType [ FLOAT ]  : 102
+/nirs/data1/measurementList18/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList18/dataTypeLabel [ STRING ]  : "raw-Phase"
+/nirs/data1/measurementList18/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList18/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList18/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList18/wavelengthIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList2/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList2/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList2/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList2/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList2/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList2/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList2/wavelengthIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList3/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList3/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList3/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList3/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList3/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList3/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList3/wavelengthIndex [ FLOAT ]  : 4
+/nirs/data1/measurementList4/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList4/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList4/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList4/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList4/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList4/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList4/wavelengthIndex [ FLOAT ]  : 3
+/nirs/data1/measurementList5/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList5/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList5/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList5/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList5/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList5/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList5/wavelengthIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList6/dataType [ FLOAT ]  : 101
+/nirs/data1/measurementList6/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList6/dataTypeLabel [ STRING ]  : "raw-AC"
+/nirs/data1/measurementList6/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList6/moduleIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList6/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList6/wavelengthIndex [ FLOAT ]  : 2
+/nirs/data1/measurementList7/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList7/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList7/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList7/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList7/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList7/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList7/wavelengthIndex [ FLOAT ]  : 4
+/nirs/data1/measurementList8/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList8/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList8/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList8/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList8/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList8/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList8/wavelengthIndex [ FLOAT ]  : 3
+/nirs/data1/measurementList9/dataType [ FLOAT ]  : 1
+/nirs/data1/measurementList9/dataTypeIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList9/dataTypeLabel [ STRING ]  : "raw-DC"
+/nirs/data1/measurementList9/detectorIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList9/moduleIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList9/sourceIndex [ FLOAT ]  : 1
+/nirs/data1/measurementList9/wavelengthIndex [ FLOAT ]  : 1
+/nirs/data1/time [ FLOAT ]  : Vector <778 x 1>
+/nirs/metaDataTags/LengthUnit [ STRING ]  : "mm"
+/nirs/metaDataTags/MeasurementDate [ STRING ]  : "?"
+/nirs/metaDataTags/MeasurementTime [ STRING ]  : "?"
+/nirs/metaDataTags/SNIRF_createDate [ STRING ]  : "2020-05-30"
+/nirs/metaDataTags/SNIRF_createTime [ STRING ]  : "16:05:56Z"
+/nirs/metaDataTags/SubjectID [ STRING ]  : "annonymous"
+/nirs/metaDataTags/TimeUnit [ STRING ]  : "s"
+/nirs/metaDataTags/filedescription [ STRING ]  : "ISS.snirf"
+/nirs/probe/detectorLabels [ STRING ]  : "Detector-0001"
+/nirs/probe/detectorPos2D [ FLOAT ]  : Vector <2 x 1>
+/nirs/probe/frequencies [ FLOAT ]  : Vector <2 x 1>
+/nirs/probe/sourceLabels [ STRING ]  : "Source-0001"
+/nirs/probe/sourcePos2D [ FLOAT ]  : Vector <2 x 1>
+/nirs/probe/useLocalIndex [ FLOAT ]  : 1
+/nirs/probe/wavelengths [ FLOAT ]  : Vector <4 x 1>
